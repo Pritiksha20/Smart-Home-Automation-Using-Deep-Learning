@@ -1,0 +1,7 @@
+Flask
+opencv-contrib-python
+numpy
+requests
+adafruit-circuitpython-dht
+RPi.GPIO
+board
