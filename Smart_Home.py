@@ -39,8 +39,8 @@ GPIO.setup(MQ2_PIN, GPIO.IN)
 GPIO.setup(MQ135_PIN, GPIO.IN)
 
 # ================= TELEGRAM =================
-BOT_TOKEN = '8729255398:AAH8XHpgU1WJsnXgbnbbuNsrBeUVTkmL28k'   # <-- replace
-CHAT_ID = '8087925156'       # <-- replace
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+CHAT_ID = "YOUR_CHAT_ID"
 
 # ================= PASSWORD =================
 PASSWORD = "1234"
